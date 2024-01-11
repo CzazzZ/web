@@ -6,7 +6,7 @@ $secret = "chengtuo007";
 // Path to your respostory on your server.
 // e.g. "/var/www/respostory"
 // 项目地址
-$path = "/www/wwwroot/http://43.138.211.178/webhook.php";
+$path = "/www/wwwroot/43.138.211.178/webhook.php";
 
 // Headers deliveried from GitHub
 $signature = $_SERVER['HTTP_X_HUB_SIGNATURE'];
